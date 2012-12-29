@@ -1,0 +1,5 @@
+Changelog for xFCPHelper.
+
+xFCPHelper 1.0.0-rc1 (29 December 2012)
+========================================
+- First release
